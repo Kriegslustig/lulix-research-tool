@@ -1,0 +1,18 @@
+{
+  "name": "research-tool",
+  "version": "0.0.0",
+  "description": "Browser extension to manage your research material",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kriegslustig/lulix-research-tool.git"
+  },
+  "author": "Luca Nils Schmid <github@ls7.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kriegslustig/lulix-research-tool/issues"
+  },
+  "homepage": "https://github.com/Kriegslustig/lulix-research-tool#readme"
+}
