@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Lulix Research Tool",
+  "version": "0.0.1",
+  "permissions": ["contextMenus", "storage"],
+  "background": {
+    "scripts": ["index.js"]
+  },
+  "browser_action": {
+    "default_title": "Show Saved Stuff",
+    "default_popup": "popup.html"
+  }
+}
